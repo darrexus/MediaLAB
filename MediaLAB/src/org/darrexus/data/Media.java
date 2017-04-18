@@ -73,6 +73,6 @@ public class Media {
 	}
 	
 	public void displayText(){
-		System.out.println("Updated Text to be printed.");
+		System.out.println("PRINT Text.");
 	}
 }
